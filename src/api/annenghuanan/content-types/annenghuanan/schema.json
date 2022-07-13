@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "annenghuanan_plural",
+  "info": {
+    "singularName": "annenghuanan",
+    "pluralName": "annenghuanan-plural",
+    "displayName": "安能环安"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "aboutus": {
+      "type": "richtext"
+    }
+  }
+}
