@@ -4,7 +4,8 @@
   "info": {
     "singularName": "annenghuanan",
     "pluralName": "annenghuanan-plural",
-    "displayName": "安能环安"
+    "displayName": "安能环安",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,7 +13,8 @@
   "pluginOptions": {},
   "attributes": {
     "aboutus": {
-      "type": "richtext"
+      "type": "richtext",
+      "required": true
     }
   }
 }
