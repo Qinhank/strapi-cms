@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_three_text_cultrues",
+  "info": {
+    "displayName": "cultrue",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

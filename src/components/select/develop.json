@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_select_develops",
+  "info": {
+    "displayName": "develop"
+  },
+  "options": {},
+  "attributes": {
+    "a": {
+      "type": "text"
+    }
+  }
+}

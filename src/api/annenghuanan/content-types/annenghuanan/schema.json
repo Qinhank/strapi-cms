@@ -15,6 +15,28 @@
     "aboutus": {
       "type": "richtext",
       "required": true
+    },
+    "banner": {
+      "type": "string"
+    },
+    "develop": {
+      "type": "text"
+    },
+    "culture": {
+      "displayName": "cultrue",
+      "type": "component",
+      "repeatable": true,
+      "component": "three-text.cultrue"
+    },
+    "awards": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
     }
   }
 }
